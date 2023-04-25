@@ -13,6 +13,12 @@
 * Angular material
 * Prime NG
 
+## Stats
+
+![Github stats](https://github-readme-stats-manojadams1.vercel.app/api?username=manojadams&show_icons=true&ount_private=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-manojadams1.vercel.app/api/top-langs/?username=manojadams&layout=compact&theme=radial&langs_count=8)
+
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
