@@ -1,1 +1,1 @@
-[Profile](https://github.com/manojgetwealthy)
+[Link to Profile](https://github.com/manojgetwealthy)
